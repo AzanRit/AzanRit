@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Semua 👋
 
 <!--
 **AzanRit/AzanRit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Saya **Azan Ihwanda Ritonga**, seorang mahasiswa D3 Teknik informatika di Politeknik Pos Indonesia, Bandung.\
+Mau lebih dekat dengan saya? wkwkwk yuk saling terikat di [LinkedIn](https://www.linkedin.com/in/azanihwandaritonga/)
